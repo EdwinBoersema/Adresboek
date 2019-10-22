@@ -1,0 +1,60 @@
+[
+    {
+        "name":"Hubert Gonzalez",
+        "phoneNumber":"06378542745",
+        "email":"HubertGonzalez@outlook.com",
+        "address":"1639 Pickens Way",
+        "zipcode":"75090",
+        "city":"Sherman"
+    }
+    ,
+    {
+        "name":"Chelsea Mason",
+        "phoneNumber":"0609683754",
+        "email":"ChelseaMason@gmail.com",
+        "address":"1298 Cost Avenue",
+        "zipcode":"75247",
+        "city":"Dallas"
+    },
+    {
+        "name":"Aahil Patel",
+        "phoneNumber":"0678459878",
+        "email":"AahilPatel@yahoo.com",
+        "address":"559 Newton Street",
+        "zipcode":"55321",
+        "city":"Cokato"
+    },
+    {
+        "name":"Levison Truong",
+        "phoneNumber":"0690683489",
+        "email":"LevisonTruong@gmail.com",
+        "address":"3580 Kessla Way",
+        "zipcode":"29440",
+        "city":"Georgetown"
+    },
+    {
+        "name":"Mathilda Myran",
+        "phoneNumber":"42051027",
+        "email":"mathilda.myran@gmail.com",
+        "address":"3642 Risveien",
+        "zipcode":"5868",
+        "city":"Nordkjosbotn" 
+    },
+    {
+        "name":"Lummi Heikkila",
+        "phoneNumber":"044-328-23-69",
+        "email":"lumi.heikkila@example.com",
+        "address":"1689 Myllypuronkatu",
+        "zipcode":"97988",
+        "city":"Sund" 
+    },
+    {
+        "name":"Mestan Ozansoy",
+        "phoneNumber":"963-143-8642",
+        "email":"milla.pietila@example.com",
+        "address":"6422 Visiokatu",
+        "zipcode":"29865",
+        "city":"Karstula"
+    }
+    
+]
